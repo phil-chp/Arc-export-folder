@@ -23,8 +23,9 @@ Icons are pretty good brain candy, when you have a wall of bookmarks, they help 
 
 By default the script attempts it's best to fetch the website icon, though this does take some time, if you are in a rush just pass the `--no-icons` flag to skip this step.
 
+## Q&A
 <details>
-<summary><h2>Q&A</h2></summary>
+<summary>...</summary>
 
 ### Does it work for other browsers?
 
@@ -32,7 +33,9 @@ Idk, but feel free to test. PR's are also welcome if you want to add support for
 
 ### Why not just use the Arc shared folder page?
 
-Did that, I have a lot of bookmarks, after having the page open for 5min on firefox, it started to lag so much that Firefox complained about it being open.
+Did that, I have a lot of bookmarks, after having the page open for 5 min on firefox, it started to lag so much that Firefox complained about it being open.
+
+And I prefer to have them in the bookmark menu, it's easier to access and navigate.
 
 ### Can I have the bookmarks in a specific folder?
 
